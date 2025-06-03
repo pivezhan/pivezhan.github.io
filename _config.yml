@@ -1,9 +1,11 @@
 # Site settings
 title: Mohammed Pivezhani's Academic Site
-email: mohammad.pivezhani@example.com
+email: pivezhandi@wayne.edu
 description: >-
-  Assistant Professor at [Your University]. Research interests include [your field].
-  This site contains my publications, teaching, and contact information.
+  PhD candidate at Wayne State University, Department of Computer Science.
+  Research focuses on data-efficient AI-guided energy- and thermal-aware scheduling
+  for heterogeneous multicore systems in the Embedded Systems Lab. Experienced in
+  high-performance computing, reinforcement learning, and computer architecture.
 baseurl: ""
 url: "https://pivezhan.github.io"
 twitter_username: yourtwitterhandle
