@@ -1,5 +1,5 @@
 # Site settings
-title: Mohammed Pivezhani's Academic Site
+title: Mohammed Pivezhani
 email: pivezhandi@wayne.edu
 description: >-
   PhD candidate at Wayne State University, Department of Computer Science.
@@ -8,7 +8,7 @@ description: >-
   high-performance computing, reinforcement learning, and computer architecture.
 baseurl: ""
 url: "https://pivezhan.github.io"
-twitter_username: yourtwitterhandle
+twitter_username: pivezhandi
 github_username: pivezhan
 
 # Add navigation links for the header
@@ -20,7 +20,6 @@ header_pages:
   - projects.md
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
