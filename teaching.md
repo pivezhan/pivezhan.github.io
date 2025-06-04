@@ -1,4 +1,3 @@
-cat << 'EOF' > teaching.md
 ---
 layout: default
 title: Teaching
@@ -24,4 +23,3 @@ permalink: /teaching
 ## Shahid Beheshti University, Tehran, Iran
 - **Instructor, Digital Logic Design Lab** (Spring 2015)  
   - Taught practical sessions on VHDL and FPGA implementation for undergraduate students.
-EOF

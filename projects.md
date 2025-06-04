@@ -1,4 +1,3 @@
-cat << 'EOF' > projects.md
 ---
 layout: default
 title: Projects
@@ -15,4 +14,4 @@ permalink: /projects
 
 - **Neural Network for Human Activity Recognition** (2015)  
   Designed and implemented a statistical-based neural network for human activity recognition, published in International Journal of Computer Applications.
-EOF
+
