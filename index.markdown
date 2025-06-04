@@ -1,11 +1,3 @@
----
-
-
----
-layout: default
-title: Home
------------
-
 # Mohammed Pivezhandi
 
 Welcome to my academic website! I am a PhD candidate in the Department of Computer Science at Wayne State University, working in the Embedded Systems Lab under the supervision of Dr. Abusayeed Saifullah. My research focuses on **data-efficient AI-guided energy- and thermal-aware scheduling on heterogeneous multicore systems**, aiming to optimize energy consumption, thermal management, and performance in embedded systems. With a background in high-performance computing, reinforcement learning, and computer architecture, I have extensive experience in both software and hardware design for real-time systems.
