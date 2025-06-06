@@ -3,7 +3,6 @@ layout: default
 title: Publications
 permalink: /publications
 ---
-
 # Publications
 
 My research spans AI on scheduling, high-performance computing, reinforcement learning, and computer architecture, resulting in several publications and submissions.
@@ -16,10 +15,12 @@ My research spans AI on scheduling, high-performance computing, reinforcement le
 - Pivezhandi M., Saifullah A. (Submitted to ECAI 2025). "A Distribution-Aware Method for Generating Data Flowing for Few-Shot Reinforcement Learning." Improved frame rates by 100% in few-shot settings.
 
 ## Planned Publications (From Proposed Work)
+
 - "Unified MARL Model with Continuous Action Spaces for Real-Time DVFS." To be submitted to IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2025) (October 2025).
 - "LLM-Driven CFG-Based Code Selector for OpenMP Optimization." To be submitted to AAAI-25 (August 2025).
 
 ## Other Publications
+
 - Pivezhandi M., Saifullah A. (Submitted, 2022). "Power-Efficient and High-Performance RL Scheduler for DAG-based OpenMP Workloads."
 - Pivezhandi M. (In progress, 2023). "A Survey on Energy-Aware Real-Time Deep-Learning Architectures."
 - Fahimda S., Pivezhandi M., Saifullah A., Fisher N. (Submitted to EMSOFT 2025). "Global EDF Scheduling of Parallel Tasks on Uniform Multicores."
@@ -30,4 +31,4 @@ My research spans AI on scheduling, high-performance computing, reinforcement le
 - Pivezhandi M., Abedi K., Hassanzadeh A. (2017). "Accuracy Improvement with Reliable Statistical-Based Models for CNT-FET Applications." In Springer Journal of Computational Electronics.
 - Pivezhandi M., Eshghi M. (2016). "ASIP Design for Two Dimensional Cordic Based DFT and DCT Algorithms." In Computer and Knowledge Engineering (ICCKE).
 - Pivezhandi M., Maybodi B. M.-N. (2015). "Statistical Based Neural Network in Human Activity Recognition." In International Journal of Computer Applications, vol. 124, no. 12.
-EOF
+  EOF
