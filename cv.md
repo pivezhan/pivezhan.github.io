@@ -51,66 +51,18 @@ Below is a summary of my academic and professional journey. For a detailed CV, y
 
 ## Experience
 
-- **Graduate Research Assistant, Computer Science Department**  
-  Wayne State University, Detroit, MI (2022–2025)  
-  - Developed HMARL for OpenMP DAG workloads, achieving 31.7% energy reduction and 34.1% makespan improvement (Published RTSS 2024 WIP, Submitted to RTSS 2025).  
-  - Designed feature-aware task allocation using Random Forest, reducing energy by 10% and temperature by 5°C (Published RTCSA 2025).  
-  - Developed distribution-aware flow-matching for few-shot RL in DVFS, improving frame rates by 30% (Submitted to ECAI 2025).  
-  - Working on model-based MARL for DVFS with LLM-based modeling (Planned for RTAS 2025).  
-  - Developing LLM-driven CFG-based code optimizer for OpenMP using hierarchical MARL and compressed learning (Planned for AAAI 2025).  
-  - Designed energy-aware scheduling framework for multi-core processors using data-oriented RL.
+See the [Projects](/projects/) page for a full list.
 
-- **Graduate Research Assistant, Computer Science Department**  
-  Iowa State University, Ames, IA (2021–2022)  
-  - Focused on resource scheduling for multi-core and data-processing clusters.  
-  - Developed energy-aware real-time scheduling for Xeon processors using DAG inputs.  
-  - Designed a simulator for dynamic resource allocation based on DAG tasks.  
-  - Teaching Assistant for CprE 327 (Advanced Object-Oriented Programming), mentoring 180+ students in C, algorithms, and data structures.
-
-- **Research Intern, Moffett Systems, Inc.**  
-  Los Altos, CA (Oct 2020–Jan 2021)  
-  - Worked on FPGA prototyping, implementation, verification, debugging, and bring-up.  
-  - Contributed to full-stack hardware accelerator design (architecture, RTL, compiler, firmware, runtime).
-
-- **Graduate Teaching Assistant, Electrical and Computer Engineering Department**  
-  Iowa State University, Ames, IA (2019–2021)  
-  - Parallelized genome assembly (PGAS), particle simulation (OpenMP, MPI), and matrix multiplication.  
-  - Parallelized optical flow algorithm using CUDA, OpenMP, and MPI (In-progress paper on FPGA implementation of Lucas-Kanade Algorithm).  
-  - Teaching Assistant for CprE 185 (C Programming), mentoring 140+ students in C concepts.  
-  - Teaching Assistant for CprE 381 (Computer Organization), mentoring 200+ students in VHDL and MIPS processor design.  
-  - Initiated proposals and surveys (e.g., FPGA vision algorithms, energy-efficient SNNs, DNN accelerators).
-
-- **FPGA/ASIC Design Researcher, Mashhad Researchers Center**  
-  Mashhad, Iran (2015–2018)  
-  - Designed high-throughput matrix inversions for MIMO on FPGA using Gauss-Jordan algorithm.  
-  - Conducted reliability analysis and FPGA implementation of fault-tolerant systems using HDL and SystemC.  
-  - Developed ASIC design for sigmoid function in deep learning using TSMC 90 nm technology.  
-  - Implemented AES cryptography on Spartan-6 FPGA with optimized RTL design.
-
-- **Research and Teaching Assistant, Electrical and Computer Engineering Department**  
-  Shahid Beheshti University, Tehran, Iran (2013–2015)  
-  - Teaching Assistant for Machine Learning course, supporting students with MATLAB and Python assignments.  
-  - Designed low-power, high-frequency ASIC layout for 8-bit multiplier using pseudo-nMOS/pMOS gates.
-
-- **Undergraduate Research, Department of Engineering**  
-  Ferdowsi University of Mashhad, Mashhad, Iran (2008–2013)  
-  - Thesis: *Design and Implementation of a Mobile Communication System Using Microcontrollers*.
 
 ## Publications
 
-See the [Publications](#) page for a full list.
+See the [Publications](/publications/) page for a full list.
+
 
 ## Honors
 
-- **May 2025**: Won travel award for RTCSA Conference in Singapore.
-- **2021–2024**: Invited as peer reviewer for ICPP and ISPDC, completing 2+ reviews.
-- **2022–2025**: Received NSF funding for AI-guided energy- and thermal-aware scheduling research.
-- **2016–2025**: Published as first/second author in RTSS, RTCSA, ECRTS, HPCC, ICPDC, ASAP, ICCKE.
-- **Sep 2018**: Received PhD admission offers from top universities in USA, Europe, Australia, Canada, Iran.
-- **Sep 2015**: Master’s thesis nominated as best research in Shahid Beheshti University ECE department.
-- **Sep 2013**: Senior design project nominated as best Bachelor’s final project.
-- **Aug 2008**: Ranked in 95th percentile in international Physics and Mathematics exam.
-- **Aug 2008**: Ranked in 99th percentile in National Azad University entrance exam.
+See the [News](/news/) page for a full list.
+
 
 ## Courses
 

@@ -41,7 +41,7 @@ I leverage **Hierarchical Multi-Agent Reinforcement Learning (HMARL)** and **dat
 - **Feature-Aware Task Allocation**: Reduced energy by 10% and temperature by 5 degrees Celsius (Submitted to RTCSA 2025).
 - **Distribution-Aware Flow Matching for Few-Shot RL**: Improved frame rates by 30% in few-shot settings (Submitted to ECAI 2025).
 
-### Future Research (Next 6-7 Months)
+### Future Research (Due January 1 2026)
 
 - **Model-Based MARL for DVFS (Real-Time)**: Extend MARL to handle continuous action spaces using DDPG/PPO, with LLM-based environment modeling for real-time task prioritization.
 - **LLM-Driven CFG-Based Code Optimizer (AI)**: Use LLMs to generate control-flow graphs (CFGs) from OpenMP code, enabling RL-based resource allocation and code variation selection (e.g., tied, untied, serial) to minimize makespan.
