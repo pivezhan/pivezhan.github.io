@@ -3,32 +3,32 @@ layout: default
 title: Publications
 permalink: /publications
 ---
+
 # Publications
 
-My research spans AI on scheduling, high-performance computing, reinforcement learning, and computer architecture, resulting in several publications and submissions.
+My research spans AI-guided scheduling, high-performance computing, reinforcement learning, and computer architecture, resulting in several publications in prestigious journals and conferences.
 
-## Research-Related Publications
+## Recent Submissions
 
-- Pivezhandi M., Jain A., Saifulla A., Jannesari A. (2024). "Work-In-Progress: Energy-Aware Scheduling based on HMARL for OpenMP DAG Workloads." In IEEE Real-Time Systems Symposium.
-- Pivezhandi M., Saifullah A., Jannesari A. A. (Submitted to EMSOFT 2025). "Energy and Thermal-Aware Scheduling based on HMARL for Parallel OpenMP DAG Workloads." Achieved 31.7% energy reduction and 34.1% makespan improvement.
-- Pivezhandi M., Modekurthy V. P., Saifullah A. (Submitted to RTCSA 2025). "A Data Learning Framework for Task-to-Core Scheduling in Heterogeneous Systems." Reduced energy by 10% and temperature by 15 degrees Celsius.
-- Pivezhandi M., Saifullah A. (Submitted to ECAI 2025). "A Distribution-Aware Method for Generating Data Flowing for Few-Shot Reinforcement Learning." Improved frame rates by 100% in few-shot settings.
 
-## Planned Publications (From Proposed Work)
+1. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari, *Energy and Thermal-Aware Scheduling based on HMARL for Parallel OpenMP DAG Workloads*, submitted to *IEEE Real-Time Systems Symposium (RTSS)*, 2025.
+2. **Mohammad Pivezhandi**, A. Saifullah, *A Distribution-Aware Flow-Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning*, submitted to *European Conference on Artificial Intelligence (ECAI)*, 2025.
+3. S. Fahimda, **Mohammad Pivezhandi**, A. Saifullah, N. Fisher, *Global EDF Scheduling of Parallel Tasks on Uniform Multicores*, submitted to *IEEE Real-Time Systems Symposium (RTSS)*, 2025.
 
-- "Unified MARL Model with Continuous Action Spaces for Real-Time DVFS." To be submitted to IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2025) (October 2025).
-- "LLM-Driven CFG-Based Code Selector for OpenMP Optimization." To be submitted to AAAI-25 (August 2025).
+## Journal Publications
 
-## Other Publications
+1. **Mohammad Pivezhandi**, Abedi K., Hassanzadeh A. "[Accuracy Improvement with Reliable Statistical-Based Models for CNT-FET Applications](https://www.researchgate.net/publication/319146972_Accuracy_improvement_with_reliable_statistical-based_models_for_CNT-FET_applications)." *Springer Journal of Computational Electronics*, 2017.
+2. **Mohammad Pivezhandi**, Maybodi B. M.-N. "[Statistical Based Neural Network in Human Activity Recognition](https://pdfs.semanticscholar.org/2fb5/eff4cb3c27009ab3f17f09efbe4301bf3939.pdf)." *International Journal of Computer Applications*, vol. 124, no. 12, 2015.
 
-- Pivezhandi M., Saifullah A. (Submitted, 2022). "Power-Efficient and High-Performance RL Scheduler for DAG-based OpenMP Workloads."
-- Pivezhandi M. (In progress, 2023). "A Survey on Energy-Aware Real-Time Deep-Learning Architectures."
-- Fahimda S., Pivezhandi M., Saifullah A., Fisher N. (Submitted to EMSOFT 2025). "Global EDF Scheduling of Parallel Tasks on Uniform Multicores."
-- Ahmed A., Pivezhandi M., Guo Z., Li J., Modekurthy V. P., Saifullah A. (2023). "Precise Scheduling of DAG Tasks with Dynamic Power Management." In 35th Euromicro Conference on Real-Time Systems (ECRTS).
-- Bashir Q., Pivezhandi M., Saifullah A. (2022). "Energy- and Temperature-aware Semi-Partitioned Scheduling: From Theory to Practical Implementation on Intel Processor." In 18th IEEE International Conference on Embedded Software and Systems (ICESS).
-- Hoseinyfarahabady M. R., Jannesari A., Pivezhandi M., Bengre V. (2021). "A Learning-Based Scheduler for High Volume Processing in Data Warehouse Using Graph Neural Networks." In The 31st IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP).
-- Pivezhandi M., Jones P. H., Zambreno J. (2020). "ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation." In The 31st IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP).
-- Pivezhandi M., Abedi K., Hassanzadeh A. (2017). "Accuracy Improvement with Reliable Statistical-Based Models for CNT-FET Applications." In Springer Journal of Computational Electronics.
-- Pivezhandi M., Eshghi M. (2016). "ASIP Design for Two Dimensional Cordic Based DFT and DCT Algorithms." In Computer and Knowledge Engineering (ICCKE).
-- Pivezhandi M., Maybodi B. M.-N. (2015). "Statistical Based Neural Network in Human Activity Recognition." In International Journal of Computer Applications, vol. 124, no. 12.
-  EOF
+## Conference Publications
+
+1. **Mohammad Pivezhandi**, Saifullah A., Jannesari A. *Energy and Thermal-Aware Scheduling based on HMARL for Parallel OpenMP DAG Workloads*. *Submitted to IEEE Real-Time Systems Symposium (RTSS)*, 2025.
+2. **Mohammad Pivezhandi**, Saifullah A. *A Distribution-Aware Flow-Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning*. *Submitted to European Conference on Artificial Intelligence (ECAI)*, 2025.
+3. Fahimda S., **Mohammad Pivezhandi**, Saifullah A., Fisher N. *Global EDF Scheduling of Parallel Tasks on Uniform Multicores*. *Submitted to IEEE Real-Time Systems Symposium (RTSS)*, 2025.
+4. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
+5. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
+6. Ahmed A., **Mohammad Pivezhandi**, Guo Z., Li J., Modekurthy V. P., Saifullah A. "Precise Scheduling of DAG Tasks with Dynamic Power Management." *Euromicro Conference on Real-Time Systems (ECRTS)*, 2023.
+7. Bashir Q., **Mohammad Pivezhandi**, Saifullah A. "Energy- and Temperature-aware Scheduling: From Theory to Practical Implementation on Intel Processor." *IEEE International Conference on High Performance Computing and Communications (HPCC)*, 2022.
+8. Bengre V., HoseinyFarahabady M. R., **Mohammad Pivezhandi**, Zomaya A. Y., Jannesari A. "A Learning-Based Scheduler for High Volume Processing in Data Warehouse using Graph Neural Networks." *International Conference on Parallel and Distributed Computing (ICPDC)*, 2021.
+9. **Mohammad Pivezhandi**, Jones P. H., Zambreno J. "ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation." *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2020.
+10. **Mohammad Pivezhandi**, Eshghi M. "[ASIP Design for Two Dimensional Cordic based DFT and DCT Algorithms](https://ieeexplore.ieee.org/document/7802151/)." *International Conference on Computer and Knowledge Engineering (ICCKE)*, 2016.

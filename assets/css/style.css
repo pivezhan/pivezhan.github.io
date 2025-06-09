@@ -1,69 +1,232 @@
-body {
-	font-family: Arial, sans-serif;
+/* Reset default styles */
+* {
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
   }
+  
+  /* Wrapper for the entire page */
   .wrapper {
 	max-width: 1200px;
 	margin: 0 auto;
+	padding: 0 20px;
+  }
+  
+  /* Header styles */
+  .site-header {
+	background-color: #f8f8f8;
+	padding: 20px 0;
+	border-bottom: 1px solid #ddd;
 	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
   }
-  header {
-	background: #f8f8f8;
-	padding: 20px;
-	text-align: center;
+  
+  .site-header h1 {
+	font-size: 24px;
+	font-weight: bold;
   }
-  nav ul {
-	list-style: none;
-	padding: 0;
-  }
-  nav ul li {
-	display: inline;
-	margin: 0 10px;
-  }
-  nav ul li a {
+  
+  .site-header h1 a {
 	text-decoration: none;
 	color: #333;
   }
+  
+  /* Tabbed navigation styles */
+  .site-nav .tab-nav {
+	list-style: none;
+	display: flex;
+	gap: 5px;
+	margin: 0;
+  }
+  
+  .site-nav .tab-nav .tab-item {
+	margin: 0;
+  }
+  
+  .site-nav .tab-nav .tab-item a {
+	display: block;
+	text-decoration: none;
+	color: #333;
+	font-size: 16px;
+	padding: 10px 20px;
+	background-color: #e0e0e0;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-radius: 5px 5px 0 0;
+	transition: background-color 0.3s, color 0.3s;
+	position: relative;
+	top: 1px; /* Aligns tabs with header border */
+  }
+  
+  .site-nav .tab-nav .tab-item a:hover {
+	background-color: #d0d0d0;
+	color: #000;
+  }
+  
+  .site-nav .tab-nav .tab-item a.active {
+	background-color: #fff;
+	color: #007bff;
+	border-bottom: 1px solid #fff; /* Overlaps the header's bottom border */
+	font-weight: bold;
+  }
+  
+  /* Container for sidebar and main content */
   .container {
 	display: flex;
-	padding: 20px;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin-top: 20px;
   }
+  
+  /* Sidebar styles */
   .sidebar {
-	width: 25%;
-	padding-right: 20px;
+	flex: 1;
+	min-width: 200px;
+	max-width: 250px;
+	padding: 20px;
+	background-color: #f0f0f0;
+	border-radius: 8px;
   }
+  
   .sidebar img {
 	border-radius: 50%;
-  }
-  main {
-	width: 75%;
-  }
-  img {
+	margin-bottom: 15px;
 	max-width: 100%;
 	height: auto;
   }
+  
+  .sidebar h2 {
+	font-size: 20px;
+	margin-bottom: 10px;
+  }
+  
+  .sidebar p {
+	font-size: 14px;
+	color: #555;
+	margin-bottom: 15px;
+  }
+  
+  .sidebar ul {
+	list-style: none;
+  }
+  
+  .sidebar ul li {
+	margin-bottom: 10px;
+  }
+  
+  .sidebar ul li a {
+	text-decoration: none;
+	color: #007bff;
+  }
+  
+  .sidebar ul li a:hover {
+	text-decoration: underline;
+  }
+  
+  /* Main content styles */
+  main {
+	flex: 3;
+	min-width: 300px;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 0 8px 8px 8px;
+  }
+  
+  /* Responsive images in main content (e.g., hobbies page) */
+  main img {
+	max-width: 100%; /* Ensures images don't exceed container width */
+	height: auto; /* Maintains aspect ratio */
+	display: block; /* Prevents inline spacing issues */
+	margin: 15px 0; /* Adds spacing above and below images */
+	width: 80vw; /* Scales image to 80% of viewport width by default */
+	max-width: 600px; /* Caps maximum width for large screens */
+  }
+  
+  /* Flex container for multiple images (e.g., Manhattan Landmarks, Guitars) */
   .flex-container {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 10px;
+	gap: 15px;
+	justify-content: center;
+	margin: 15px 0;
   }
+  
+  /* Responsive images within flex container */
   .responsive-img {
-	max-width: 45%;
+	max-width: 100%;
 	height: auto;
+	width: 45%; /* Each image takes ~45% of container width for two-column layout */
+	min-width: 150px; /* Minimum size for small screens */
   }
+  
+  /* Specific styling for guitar images */
   .guitar-img {
-	transform: rotate(-10deg);
-	margin: 20px 0; /* Extra margin to prevent overlap due to rotation */
+	max-width: 100%;
+	height: auto;
+	width: 45%; /* Matches responsive-img for consistency */
+	min-width: 150px;
+	border-radius: 8px; /* Adds rounded corners for aesthetic */
   }
+  
+  /* Media queries for responsive image scaling */
   @media (max-width: 768px) {
-	.responsive-img {
+	main img {
+	  width: 90vw; /* Slightly larger on smaller screens */
 	  max-width: 100%;
 	}
-	.flex-container {
+  
+	.responsive-img,
+	.guitar-img {
+	  width: 100%; /* Full width for single-column layout */
+	  min-width: 100px;
+	}
+  }
+  
+  @media (max-width: 480px) {
+	main img {
+	  width: 95vw; /* Nearly full width on very small screens */
+	  max-width: 100%;
+	}
+  
+	.responsive-img,
+	.guitar-img {
+	  width: 100%;
+	  min-width: 80px;
+	}
+  }
+  
+  /* Responsive design for layout */
+  @media (max-width: 768px) {
+	.site-header {
+	  flex-direction: column;
+	  align-items: flex-start;
+	}
+  
+	.site-nav .tab-nav {
+	  flex-direction: column;
+	  gap: 5px;
+	  margin-top: 10px;
+	  width: 100%;
+	}
+  
+	.site-nav .tab-nav .tab-item a {
+	  border: 1px solid #ccc;
+	  border-radius: 5px;
+	  text-align: center;
+	}
+  
+	.site-nav .tab-nav .tab-item a.active {
+	  border-bottom: 1px solid #ccc; /* Restore border for mobile */
+	}
+  
+	.container {
 	  flex-direction: column;
 	}
-	.guitar-img {
-	  margin: 10px 0;
+  
+	.sidebar {
+	  max-width: 100%;
 	}
   }
