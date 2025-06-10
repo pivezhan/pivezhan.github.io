@@ -12,7 +12,7 @@ Welcome to my academic website! I am a PhD candidate in Computer Science at Wayn
 
 ## About Me
 
-I hold a Master’s in Computer Science/Engineering from Iowa State University (CGPA: 3.76/4.0) and a Master’s in Digital Electronics from Shahid Beheshti University (CGPA: 4.0/4.0), where my thesis on neural networks for human activity recognition was nominated as Best Research in the ECE Department. I also earned a Bachelor’s in Electronic Engineering from Ferdowsi University of Mashhad, with my senior project recognized as the best in its category. My career includes research and teaching roles at Wayne State University, Iowa State University, and Shahid Beheshti University, as well as industry experience as a research intern at Moffett Systems, Inc., designing FPGA-based hardware accelerators.
+I hold a Master’s in Computer Science/Engineering from Iowa State University (CGPA: 3.76/4.0) and a Master’s in Digital Electronics from Shahid Beheshti University (CGPA: 4.0/4.0), where my thesis on neural networks for human activity recognition was nominated as Best Research in the ECE Department. My career includes research and teaching roles at Wayne State University, Iowa State University, and Shahid Beheshti University, as well as industry experience as a research intern at Moffett Systems, Inc., designing FPGA-based hardware accelerators.
 
 My technical expertise spans **Python**, **C/C++**, **VHDL**, **Verilog**, **TensorFlow**, **PyTorch**, **CUDA**, and **OpenMP**, enabling me to bridge software and hardware design. I have mentored over 500 undergraduate students in courses like C programming, computer organization, and machine learning. 
 
@@ -32,7 +32,7 @@ My PhD dissertation, *Data-Efficient AI-Guided Energy- and Thermal-Aware Schedul
 - **Few-Shot RL with Flow Matching**: Improved frame rates by 30% in DVFS settings (Submitted to ECAI 2025).
 - **Ongoing Work**: Developing a model-based MARL framework for DVFS optimization and an LLM-driven OpenMP code optimizer, targeting RTAS 2025 and AAAI 2025.
 
-My research is supported by **National Science Foundation (NSF)** funding, and I contribute as a peer reviewer for conferences like ICPP and ISPDC. Explore my [Publications](/publications/) and [Projects](/projects/) for more details.
+My research is supported by **National Science Foundation (NSF)** funding, and I contribute as a peer reviewer for conferences like ICPP and ISPDC. Explore my [Publications](/publications) and [Projects](/projects) for more details.
 
 ---
 
@@ -40,4 +40,4 @@ My research is supported by **National Science Foundation (NSF)** funding, and I
 
 I’m eager to collaborate on cutting-edge projects in AI, real-time systems, and embedded computing. 
 
-Visit my [CV](/cv/) for a comprehensive overview of my work!
+Visit my [CV](/cv) for a comprehensive overview of my work!

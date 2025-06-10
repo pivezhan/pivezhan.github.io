@@ -51,17 +51,17 @@ Below is a summary of my academic and professional journey. For a detailed CV, y
 
 ## Experience
 
-See the [Projects](/projects/) page for a full list.
+See the [Projects](/projects) page for a full list.
 
 
 ## Publications
 
-See the [Publications](/publications/) page for a full list.
+See the [Publications](/publications) page for a full list.
 
 
 ## Honors
 
-See the [News](/news/) page for a full list.
+See the [News](/news) page for a full list.
 
 
 ## Courses

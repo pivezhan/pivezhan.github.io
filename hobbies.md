@@ -23,10 +23,10 @@ I use a DJI Mini 4 to capture aerial footage of landscapes and cityscapes, blend
 
 - **Apple Island, Three Seasons**  
   ![Apple Island](/assets/images/apple_island_three_seasons.jpg)  
-  *Captured*: Orchard Lake, MI  
+  *Captured*: July 2014-February 2015, Orchard Lake, MI  
 
 - **Manhattan Landmarks**  
-  I also used a Nikon D5300 DSLR camera to capture these aerial photos.  
+  I also used a Nikon D5300 DSLR camera to capture these aerial photos from Top of The Rock.  
   <div class="flex-container">
     <img src="/assets/images/empire_state.jpg" alt="Empire State" class="responsive-img">
     <img src="/assets/images/central_park.jpg" alt="Central Park" class="responsive-img">
@@ -44,6 +44,4 @@ As an amateur performer, I play acoustic and electric guitars, performing countr
   <p class="guitar-caption">Cordoba C5 CE</p>
 </div>
 
----
 
-These hobbies enhance my problem-solving and creativity, which I apply to my [research](/index) in AI-guided scheduling.
