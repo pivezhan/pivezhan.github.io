@@ -6,6 +6,7 @@ permalink: /news
 
 # News
 
+- **Jun 2025**: I become a TPC committee member in ISPA 2025
 - **May 2025**: Awarded a travel grant to attend the *IEEE Real-Time Computing and Applications Symposium (RTCSA)* in Singapore, recognizing contributions to energy-aware scheduling research.
 - **April 2025**: Published a new paper: **Mohammad Pivezhandi**, V. P. Modekurthy, A. Saifullah, "A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms," in *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
 - **December 2024**: Presented a work-in-progress paper: **Mohammad Pivezhandi**, A. Jain, A. Saifullah, A. Jannesari, "Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads," at *IEEE Real-Time Systems Symposium (RTSS)*, 2024.
