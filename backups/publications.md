@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Publications
@@ -28,4 +27,4 @@ My research on AI-guided scheduling has led to several publications and submissi
 - Pivezhandi, M., Abedi, K. (2017). "Accuracy Improvement with Reliable Statistical-Based Models for CNT-FET Applications." In *JCE’17*.
 - Pivezhandi, M., Eshghi, M. (2016). "ASIP Design for Two Dimensional Cordic Based DFT and DCT Algorithms." In *ICCKE’16*.
 - Pivezhandi, M., Maybodi, B. M. N. (2015). "Statistical Based Neural Network in Human Activity Recognition." In *IJCA’15*.
-```
+

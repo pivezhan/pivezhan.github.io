@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Teaching
@@ -9,4 +8,3 @@ permalink: /teaching/
 
 - **Course Name 1** - [Semester, Year]
 - **Course Name 2** - [Semester, Year]
-```

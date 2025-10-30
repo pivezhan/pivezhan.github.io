@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Projects
@@ -31,4 +30,3 @@ My research projects focus on energy- and thermal-aware scheduling for embedded 
   Collaborated on real-time scheduling bounds for uniform multicores. Submitted to EMSOFT’25.
 - **Precise Scheduling of DAG Tasks**  
   Worked on dynamic power management for DAG tasks. Published in ECRTS’23.
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: News
@@ -16,4 +15,4 @@ Here are updates related to my research and academic journey:
 - **December 2024**: Presented "Work-In-Progress: Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads" at *RTSS 2024*.
 - **June 2023**: Published "Precise Scheduling of DAG Tasks with Dynamic Power Management" in *ECRTS’23*.
 - **December 2022**: Published "Energy-and Temperature-aware Scheduling: From Theory to an Implementation on Intel Processor" in *HPCC’22*.
-```
+
