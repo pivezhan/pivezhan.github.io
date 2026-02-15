@@ -10,19 +10,19 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 ## Ph.D. Thesis
 
-**Mohammad Pivezhandi**. "[Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems](https://arxiv.org/abs/2502.03444)." *Ph.D. Dissertation, Wayne State University*, 2025.
+**Mohammad Pivezhandi**. "[Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems](https://github.com/pivezhan/PhD-Thesis-Public)." *Ph.D. Dissertation, Wayne State University*, 2025.
 
 ## Preprints (ArXiv)
 
-1. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Energy and Thermal-Aware Scheduling based on Hierarchical Multi-Agent Reinforcement Learning for Parallel OpenMP DAG Workloads](https://arxiv.org/abs/2501.04515)." *arXiv preprint arXiv:2501.04515*, 2025.
+1. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Energy and Thermal-Aware Scheduling based on Hierarchical Multi-Agent Reinforcement Learning for Parallel OpenMP DAG Workloads](https://arxiv.org/abs/2601.06425)." *arXiv preprint arXiv:2601.06425*, 2025.
 
-2. **Mohammad Pivezhandi**, V. P. Modekurthy, A. Saifullah. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://arxiv.org/abs/2501.03679)." *arXiv preprint arXiv:2501.03679*, 2025.
+2. **Mohammad Pivezhandi**, V. P. Modekurthy, A. Saifullah. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://arxiv.org/abs/2502.15716)." *arXiv preprint arXiv:2502.15716*, 2025.
 
-3. **Mohammad Pivezhandi**, A. Jain, A. Saifullah, A. Jannesari. "[Zero-Shot Cross-Platform Scheduling with Large Language Model Feature Extraction](https://arxiv.org/abs/2501.18313)." *arXiv preprint arXiv:2501.18313*, 2025.
+3. **Mohammad Pivezhandi**, A. Jain, A. Saifullah, A. Jannesari. "[Zero-Shot Cross-Platform Scheduling with Large Language Model Feature Extraction](https://arxiv.org/abs/2601.08166)." *arXiv preprint arXiv:2601.08166*, 2025.
 
-4. **Mohammad Pivezhandi**, A. Saifullah. "[A Distribution-Aware Flow Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning](https://arxiv.org/abs/2502.00509)." *arXiv preprint arXiv:2502.00509*, 2025.
+4. **Mohammad Pivezhandi**, A. Saifullah. "[A Distribution-Aware Flow Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning](https://arxiv.org/abs/2409.14178)." *arXiv preprint arXiv:2409.14178*, 2024.
 
-5. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Uncertainty-Aware Prediction for Energy-Aware Scheduling Using Graph Neural Networks with Evidential Deep Learning](https://arxiv.org/abs/2501.18747)." *arXiv preprint arXiv:2501.18747*, 2025.
+5. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Uncertainty-Aware Prediction for Energy-Aware Scheduling Using Graph Neural Networks with Evidential Deep Learning](https://arxiv.org/abs/2512.12091)." *arXiv preprint arXiv:2512.12091*, 2024.
 
 ## Journal Publications
 

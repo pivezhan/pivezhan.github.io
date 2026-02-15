@@ -20,7 +20,7 @@ My technical expertise spans **Python**, **C/C++**, **VHDL**, **Verilog**, **Ten
 
 ## Research Overview
 
-My Ph.D. dissertation, *[Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems](https://arxiv.org/abs/2502.03444)*, tackles the growing challenges of energy consumption and thermal management in embedded systems, where power density doubles every three years. My work leverages **Hierarchical Multi-Agent Reinforcement Learning (HMARL)** and **data-efficient RL techniques** to optimize energy, reduce temperature hotspots, and enhance performance for parallel DAG workloads on platforms like Jetson TX2 and Intel Core i7.
+My Ph.D. dissertation, *[Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems](https://github.com/pivezhan/PhD-Thesis-Public)*, tackles the growing challenges of energy consumption and thermal management in embedded systems, where power density doubles every three years. My work leverages **Hierarchical Multi-Agent Reinforcement Learning (HMARL)** and **data-efficient RL techniques** to optimize energy, reduce temperature hotspots, and enhance performance for parallel DAG workloads on platforms like Jetson TX2 and Intel Core i7.
 
 ### Research Goals
 - **Energy- and Performance-Efficient Scheduling**: Minimize energy consumption and makespan for parallel DAG workloads.
