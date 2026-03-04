@@ -6,21 +6,29 @@ permalink: /teaching
 
 # Teaching
 
-## Wayne State University, Detroit, MI
-- **Teaching Assistant, CSC 3100: Computer Architecture and Organization** (Fall 2023, Spring 2024)  
-  - Conducted lab sessions, graded assignments, and held office hours for undergraduate students.
-
-- **Teaching Assistant, CSC 4110: Software Engineering** (Fall 2022)  
-  - Assisted with project evaluations and provided support for software development concepts.
-
 ## Iowa State University, Ames, IA
-- **Teaching Assistant, COM S 363: Introduction to Database Systems** (Spring 2021)  
-  - Led tutorials on SQL and database design, and assisted with grading.
 
-- **Teaching Assistant, COM S 228: Introduction to Data Structures** (Fall 2020)  
-  - Supported students with Java programming assignments and data structure implementations.
+### Graduate Teaching Assistant, Electrical and Computer Engineering (2019–2022)
+
+- **Course Instructor, CprE 381: Computer Organization** (Spring 2022)
+  - Served as primary instructor for 200+ undergraduate students
+  - Taught 32-bit pipelined MIPS processor implementation in VHDL and Assembly
+  - Developed all course materials and managed all instructional responsibilities
+
+- **Teaching Assistant, CprE 185: Introduction to C Programming** (Fall 2021)
+  - Guided 140+ undergraduate students covering pointers, memory management, and file I/O
+  - Enhanced student comprehension through weekly tutoring sessions
+
+- **Teaching Assistant, CprE 327: Advanced Object-Oriented Programming** (Fall 2020, Spring 2020)
+  - Mentored 180+ undergraduate students in algorithms, data structures, and advanced C programming
+  - Conducted tutoring sessions and exam proctoring
 
 ## Shahid Beheshti University, Tehran, Iran
-- **Instructor, Digital Logic Design Lab** (Spring 2015)  
-  - Taught practical sessions on VHDL and FPGA implementation for undergraduate students.
+
+### Graduate Research and Teaching Assistant, Digital Electronics (2013–2015)
+
+- **Instructor, Machine Learning** (2014-2015)
+  - Taught Machine Learning course for the first time in the department
+  - Developed all lecture content, assignments, and course materials using MATLAB and Python from scratch
+  - Instructed 50+ undergraduate and graduate students
 
