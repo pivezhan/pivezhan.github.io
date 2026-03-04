@@ -32,16 +32,18 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 ## Conference Publications
 
-1. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
+1. **Mohammad Pivezhandi**, Banisharif M., Saifullah A. "[ZeroDVFS: Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation in Embedded Systems](https://openreview.net/forum?id=meQZ7EoJPd)." *ICLR Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy*, 2026.
 
-2. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "[Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads](https://ieeexplore.ieee.org/abstract/document/10844839)." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
+2. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
 
-3. Ahmed A., **Mohammad Pivezhandi**, Guo Z., Li J., Modekurthy V. P., Saifullah A. "[Precise Scheduling of DAG Tasks with Dynamic Power Management](https://par.nsf.gov/servlets/purl/10447646)." *Euromicro Conference on Real-Time Systems (ECRTS)*, 2023.
+3. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "[Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads](https://ieeexplore.ieee.org/abstract/document/10844839)." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
 
-4. Bashir Q., **Mohammad Pivezhandi**, Saifullah A. "[Energy- and Temperature-aware Scheduling: From Theory to Practical Implementation on Intel Processor](https://ieeexplore.ieee.org/abstract/document/10074674)." *IEEE International Conference on High Performance Computing and Communications (HPCC)*, 2022.
+4. Ahmed A., **Mohammad Pivezhandi**, Guo Z., Li J., Modekurthy V. P., Saifullah A. "[Precise Scheduling of DAG Tasks with Dynamic Power Management](https://par.nsf.gov/servlets/purl/10447646)." *Euromicro Conference on Real-Time Systems (ECRTS)*, 2023.
 
-5. Bengre V., HoseinyFarahabady M. R., **Mohammad Pivezhandi**, Zomaya A. Y., Jannesari A. "[A Learning-Based Scheduler for High Volume Processing in Data Warehouse using Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_17)." *International Conference on Parallel and Distributed Computing (PDCAT)*, 2021.
+5. Bashir Q., **Mohammad Pivezhandi**, Saifullah A. "[Energy- and Temperature-aware Scheduling: From Theory to Practical Implementation on Intel Processor](https://ieeexplore.ieee.org/abstract/document/10074674)." *IEEE International Conference on High Performance Computing and Communications (HPCC)*, 2022.
 
-6. **Mohammad Pivezhandi**, Jones P. H., Zambreno J. "[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://ieeexplore.ieee.org/abstract/document/9153247)." *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2020.
+6. Bengre V., HoseinyFarahabady M. R., **Mohammad Pivezhandi**, Zomaya A. Y., Jannesari A. "[A Learning-Based Scheduler for High Volume Processing in Data Warehouse using Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_17)." *International Conference on Parallel and Distributed Computing (PDCAT)*, 2021.
 
-7. **Mohammad Pivezhandi**, Eshghi M. "[ASIP Design for Two Dimensional Cordic based DFT and DCT Algorithms](https://ieeexplore.ieee.org/document/7802151/)." *International Conference on Computer and Knowledge Engineering (ICCKE)*, 2016.
+7. **Mohammad Pivezhandi**, Jones P. H., Zambreno J. "[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://ieeexplore.ieee.org/abstract/document/9153247)." *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2020.
+
+8. **Mohammad Pivezhandi**, Eshghi M. "[ASIP Design for Two Dimensional Cordic based DFT and DCT Algorithms](https://ieeexplore.ieee.org/document/7802151/)." *International Conference on Computer and Knowledge Engineering (ICCKE)*, 2016.
