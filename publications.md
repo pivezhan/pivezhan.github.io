@@ -22,8 +22,6 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 4. **Mohammad Pivezhandi**, A. Saifullah. "[A Distribution-Aware Flow Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning](https://arxiv.org/abs/2409.14178)." *arXiv preprint arXiv:2409.14178*, 2024.
 
-5. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Uncertainty-Aware Prediction for Energy-Aware Scheduling Using Graph Neural Networks with Evidential Deep Learning](https://arxiv.org/abs/2512.12091)." *arXiv preprint arXiv:2512.12091*, 2024.
-
 ## Journal Publications
 
 1. **Mohammad Pivezhandi**, Abedi K., Hassanzadeh A. "[Accuracy Improvement with Reliable Statistical-Based Models for CNT-FET Applications](https://www.researchgate.net/publication/319146972_Accuracy_improvement_with_reliable_statistical-based_models_for_CNT-FET_applications)." *Springer Journal of Computational Electronics*, 2017.
@@ -32,18 +30,20 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 ## Conference Publications
 
-1. **Mohammad Pivezhandi**, Banisharif M., Saifullah A. "[ZeroDVFS: Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation in Embedded Systems](https://openreview.net/forum?id=meQZ7EoJPd)." *ICLR Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy*, 2026.
+1. **Mohammad Pivezhandi**, Banisharif M., Bakhshan S., Saifullah A., Jannesari A. "[GraphPerf-RT: Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs](https://arxiv.org/abs/2512.12091)." *International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Special Track on AI4Tech: AI Enabling Critical Technologies*, 2026. (Acceptance rate: 18.8%)
 
-2. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
+2. **Mohammad Pivezhandi**, Banisharif M., Saifullah A. "[ZeroDVFS: Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation in Embedded Systems](https://openreview.net/forum?id=meQZ7EoJPd)." *ICLR Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy*, 2026.
 
-3. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "[Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads](https://ieeexplore.ieee.org/abstract/document/10844839)." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
+3. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
 
-4. Ahmed A., **Mohammad Pivezhandi**, Guo Z., Li J., Modekurthy V. P., Saifullah A. "[Precise Scheduling of DAG Tasks with Dynamic Power Management](https://par.nsf.gov/servlets/purl/10447646)." *Euromicro Conference on Real-Time Systems (ECRTS)*, 2023.
+4. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "[Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads](https://ieeexplore.ieee.org/abstract/document/10844839)." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
 
-5. Bashir Q., **Mohammad Pivezhandi**, Saifullah A. "[Energy- and Temperature-aware Scheduling: From Theory to Practical Implementation on Intel Processor](https://ieeexplore.ieee.org/abstract/document/10074674)." *IEEE International Conference on High Performance Computing and Communications (HPCC)*, 2022.
+5. Ahmed A., **Mohammad Pivezhandi**, Guo Z., Li J., Modekurthy V. P., Saifullah A. "[Precise Scheduling of DAG Tasks with Dynamic Power Management](https://par.nsf.gov/servlets/purl/10447646)." *Euromicro Conference on Real-Time Systems (ECRTS)*, 2023.
 
-6. Bengre V., HoseinyFarahabady M. R., **Mohammad Pivezhandi**, Zomaya A. Y., Jannesari A. "[A Learning-Based Scheduler for High Volume Processing in Data Warehouse using Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_17)." *International Conference on Parallel and Distributed Computing (PDCAT)*, 2021.
+6. Bashir Q., **Mohammad Pivezhandi**, Saifullah A. "[Energy- and Temperature-aware Scheduling: From Theory to Practical Implementation on Intel Processor](https://ieeexplore.ieee.org/abstract/document/10074674)." *IEEE International Conference on High Performance Computing and Communications (HPCC)*, 2022.
 
-7. **Mohammad Pivezhandi**, Jones P. H., Zambreno J. "[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://ieeexplore.ieee.org/abstract/document/9153247)." *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2020.
+7. Bengre V., HoseinyFarahabady M. R., **Mohammad Pivezhandi**, Zomaya A. Y., Jannesari A. "[A Learning-Based Scheduler for High Volume Processing in Data Warehouse using Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_17)." *International Conference on Parallel and Distributed Computing (PDCAT)*, 2021.
 
-8. **Mohammad Pivezhandi**, Eshghi M. "[ASIP Design for Two Dimensional Cordic based DFT and DCT Algorithms](https://ieeexplore.ieee.org/document/7802151/)." *International Conference on Computer and Knowledge Engineering (ICCKE)*, 2016.
+8. **Mohammad Pivezhandi**, Jones P. H., Zambreno J. "[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://ieeexplore.ieee.org/abstract/document/9153247)." *IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2020.
+
+9. **Mohammad Pivezhandi**, Eshghi M. "[ASIP Design for Two Dimensional Cordic based DFT and DCT Algorithms](https://ieeexplore.ieee.org/document/7802151/)." *International Conference on Computer and Knowledge Engineering (ICCKE)*, 2016.

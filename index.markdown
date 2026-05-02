@@ -27,11 +27,11 @@ My Ph.D. dissertation, *[Data-Efficient AI-Guided Energy- and Thermal-Aware Sche
 - **Thermal-Aware Management**: Reduce temperature hotspots to improve system reliability.
 
 ### Key Contributions
+- **GraphPerf-RT**: Graph-driven performance modeling with calibrated uncertainty for OpenMP scheduling on heterogeneous embedded SoCs (Published IJCAI-ECAI 2026, AI4Tech Special Track, acceptance rate 18.8%).
 - **HMARL for OpenMP DAG Workloads**: Developed a scalable framework achieving 40.95% energy reduction and 49.06% makespan improvement (Published RTSS 2024 WIP).
 - **Feature-Aware Task Allocation**: Reduced energy by 10% and core temperature by 5°C using statistical learning (Published RTCSA 2025).
 - **Zero-Shot Cross-Platform Scheduling**: Developed LLM-based feature extraction for cross-platform transfer learning (ArXiv 2025).
 - **Few-Shot RL with Flow Matching**: Improved data efficiency in reinforcement learning through generative modeling (ArXiv 2025).
-- **Uncertainty-Aware GNN Prediction**: Integrated evidential deep learning with graph neural networks for robust energy prediction (ArXiv 2025).
 
 My research is supported by **National Science Foundation (NSF)** funding, and I contribute as a peer reviewer for conferences like AAAI, AISTATS, and ISPA. Explore my [Publications](/publications) and [Projects](/projects) for more details.
 
