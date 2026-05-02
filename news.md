@@ -6,6 +6,7 @@ permalink: /news
 
 # News
 
+- **April 2026**: Joined General Motors R&D as Research & Development Engineer (Contractor), working on AI/ML-based vehicle health management and predictive diagnostics for energy and propulsion systems.
 - **March 2026**: Invited to serve on the Technical Program Committee for IWCMC 2026 Machine Learning Symposium.
 - **March 2026**: Paper accepted at ICLR Workshop on Agentic AI in the Wild.
 - **December 2025**: Successfully defended Ph.D. dissertation at Wayne State University.
