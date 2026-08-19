@@ -6,7 +6,7 @@
 
 **Visit my website: [https://pivezhan.github.io](https://pivezhan.github.io)**
 
-This repository hosts my academic website, built with Jekyll. I am a PhD candidate in Computer Science at Wayne State University, specializing in **data-efficient AI-guided energy- and thermal-aware scheduling for heterogeneous multicore systems**.
+This repository hosts my academic website, built with Jekyll. I am an Assistant Professor (Teaching) of Computer Science at Wayne State University and a Researcher in the Vehicle Health group at the General Motors R&D Center, specializing in **data-efficient AI-guided energy- and thermal-aware scheduling for heterogeneous multicore systems**.
 
 ## 🌐 Website Contents
 

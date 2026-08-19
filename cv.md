@@ -8,11 +8,22 @@ permalink: /cv
 
 Below is a summary of my academic and professional journey. For a detailed CV, you can [download the PDF](https://drive.google.com/file/d/1MIBMP1KqHO3HnNIuELnxrwSHhtVKOlwc/view?usp=sharing).
 
+## Current Appointments
+
+- **Assistant Professor (Teaching), Computer Science** (Aug 2026–Present)  
+  Wayne State University, Detroit, MI  
+  Full-time, non-tenure-track faculty in the online Artificial Intelligence degree program.  
+  Fall 2026 courses: *Software Engineering (CSC 4110)*, *AI Literacy (CSC 1001)*
+
+- **Researcher, Vehicle Health Group (Contractor)** (Apr 2026–Present)  
+  General Motors R&D Center, Warren, MI  
+  AI/ML-based vehicle health management and predictive diagnostics for energy and propulsion systems.
+
 ## Education
 
 - **PhD in Computer Science** (2022–2025)  
   Wayne State University, Detroit, MI  
-  Proposal: *Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems*  
+  Dissertation: *Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems*  
   CGPA: 4.0/4.0
 
 - **Master of Science in Computer Science/Engineering** (2019–2022)  
@@ -63,6 +74,12 @@ See the [Publications](/publications) page for a full list.
 
 See the [News](/news) page for a full list.
 
+
+## Professional Service
+
+- **Journal Reviewer**: ACM Transactions on Embedded Computing Systems (TECS)
+- **Conference Reviewer**: NeurIPS 2026, AAAI 2026, AISTATS
+- **Technical Program Committee**: ISPA, IWCMC 2026 Machine Learning Symposium
 
 ## Courses
 
