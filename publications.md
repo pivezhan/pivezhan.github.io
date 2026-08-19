@@ -14,13 +14,13 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 ## Preprints (ArXiv)
 
-1. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[Energy and Thermal-Aware Scheduling based on Hierarchical Multi-Agent Reinforcement Learning for Parallel OpenMP DAG Workloads](https://arxiv.org/abs/2601.06425)." *arXiv preprint arXiv:2601.06425*, 2025.
+1. **Mohammad Pivezhandi**, A. Saifullah, A. Jannesari. "[HiDVFS: A Hierarchical Multi-Agent DVFS Scheduler for OpenMP DAG Workloads](https://arxiv.org/abs/2601.06425)." *arXiv preprint arXiv:2601.06425*, 2026.
 
-2. **Mohammad Pivezhandi**, V. P. Modekurthy, A. Saifullah. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://arxiv.org/abs/2502.15716)." *arXiv preprint arXiv:2502.15716*, 2025.
+2. **Mohammad Pivezhandi**, A. Saifullah, P. Modekurthy. "[Feature-Aware Task-to-Core Allocation in Embedded Multi-core Platforms via Statistical Learning](https://arxiv.org/abs/2502.15716)." *arXiv preprint arXiv:2502.15716*, 2026.
 
-3. **Mohammad Pivezhandi**, A. Jain, A. Saifullah, A. Jannesari. "[Zero-Shot Cross-Platform Scheduling with Large Language Model Feature Extraction](https://arxiv.org/abs/2601.08166)." *arXiv preprint arXiv:2601.08166*, 2025.
+3. **Mohammad Pivezhandi**, M. Banisharif, A. Saifullah, A. Jannesari. "[ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms](https://arxiv.org/abs/2601.08166)." *arXiv preprint arXiv:2601.08166*, 2026.
 
-4. **Mohammad Pivezhandi**, A. Saifullah. "[A Distribution-Aware Flow Matching for Generating Unstructured Data for Few-Shot Reinforcement Learning](https://arxiv.org/abs/2409.14178)." *arXiv preprint arXiv:2409.14178*, 2024.
+4. **Mohammad Pivezhandi**, A. Saifullah. "[FlowRL: Flow-Augmented Few-Shot Reinforcement Learning for Semi-Structured Sensor Data](https://arxiv.org/abs/2409.14178)." *arXiv preprint arXiv:2409.14178*, 2024.
 
 ## Journal Publications
 
@@ -30,11 +30,11 @@ My research spans AI-guided scheduling, high-performance computing, reinforcemen
 
 ## Conference Publications
 
-1. **Mohammad Pivezhandi**, Banisharif M., Bakhshan S., Saifullah A., Jannesari A. "[GraphPerf-RT: Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs](https://arxiv.org/abs/2512.12091)." *International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Special Track on AI4Tech: AI Enabling Critical Technologies*, 2026. (Acceptance rate: 18.8%)
+1. **Mohammad Pivezhandi**, Banisharif M., Bakhshan S., Saifullah A., Jannesari A. "[GraphPerf-RT: Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs](https://arxiv.org/abs/2512.12091)." *International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Special Track on AI4Tech: AI Enabling Critical Technologies*, 2026. (Acceptance rate: 18.8%; presented in Bremen, Germany, August 2026)
 
 2. **Mohammad Pivezhandi**, Banisharif M., Saifullah A. "[ZeroDVFS: Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation in Embedded Systems](https://openreview.net/forum?id=meQZ7EoJPd)." *ICLR Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy*, 2026.
 
-3. **Mohammad Pivezhandi**, Modekurthy V. P., Saifullah A. "[A Statistical Learning Approach for Feature-Aware Task-to-Core Allocation in Heterogeneous Platforms](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
+3. **Mohammad Pivezhandi**, Saifullah A., Modekurthy P. "[Feature-Aware Task-to-Core Allocation in Embedded Multi-core Platforms via Statistical Learning](https://rtcsa2025.github.io/?page=accepted_papers.html)." *IEEE Real-Time Computing and Applications Symposium (RTCSA)*, 2025.
 
 4. **Mohammad Pivezhandi**, Jain A., Saifullah A., Jannesari A. "[Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads](https://ieeexplore.ieee.org/abstract/document/10844839)." *Work-In-Progress, IEEE Real-Time Systems Symposium (RTSS)*, 2024.
 
