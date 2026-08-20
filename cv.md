@@ -6,7 +6,7 @@ permalink: /cv
 
 # CV
 
-Below is a summary of my academic and professional journey. For a detailed CV, you can [download the PDF](https://drive.google.com/file/d/1MIBMP1KqHO3HnNIuELnxrwSHhtVKOlwc/view?usp=sharing).
+Below is a summary of my academic and professional journey. For a detailed CV, you can [download the PDF](/assets/cv/Mohammad_Pivezhandi_CV.pdf).
 
 ## Current Appointments
 
