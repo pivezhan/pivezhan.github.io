@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Mohammed Pivezhandi, Ph.D.
+# Mohammad Pivezhandi, Ph.D.
 
 Welcome to my academic website! I am an **Assistant Professor (Teaching) of Computer Science at Wayne State University** (since August 2026) and a **Researcher in the Vehicle Health group at the General Motors R&D Center** in Warren, MI (since April 2026). I completed my Ph.D. in Computer Science at Wayne State University in December 2025, working in the Embedded Systems Lab under Dr. Abusayeed Saifullah. My research focuses on **data-efficient AI-guided energy- and thermal-aware scheduling for heterogeneous multicore systems**, addressing critical challenges in energy efficiency, thermal management, and performance optimization for real-time embedded systems. With a strong background in high-performance computing, reinforcement learning, and computer architecture, I develop innovative solutions for sustainable computing.
 

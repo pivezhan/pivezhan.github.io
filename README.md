@@ -1,5 +1,5 @@
 
-# Mohammed Pivezhandi - Academic Website
+# Mohammad Pivezhandi - Academic Website
 
 [![Website](https://img.shields.io/badge/Website-pivezhan.github.io-blue?style=flat-square&logo=github)](https://pivezhan.github.io)
 [![Email](https://img.shields.io/badge/Email-pivezhandi%40wayne.edu-red?style=flat-square&logo=gmail)](mailto:pivezhandi@wayne.edu)
